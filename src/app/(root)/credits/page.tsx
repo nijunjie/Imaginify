@@ -1,6 +1,4 @@
-import React from "react";
-
-const CreditPage = ({ children }: { children: React.ReactNode }) => {
+const CreditPage = () => {
   return <main>CreditPage</main>;
 };
 
