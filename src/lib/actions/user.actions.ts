@@ -1,4 +1,4 @@
-"user server";
+"use server";
 
 import { revalidatePath } from "next/cache";
 import UserModel from "../database/models/user.model";
